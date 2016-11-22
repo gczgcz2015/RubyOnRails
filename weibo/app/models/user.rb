@@ -6,18 +6,5 @@ class User < ApplicationRecord
 	:has_secure_password
 	validates :password, length:{minimum: 6}
     
-    #你好
-    
-    #master 修改
-#    新的branch
-
-# NEW BRANCH SECOND
-
-#first
-	123
-    
-    NEW
-    
-    2222222
-    master
+    #new Branch 33333333
 end
