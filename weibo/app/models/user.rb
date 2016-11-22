@@ -7,5 +7,7 @@ class User < ApplicationRecord
 	validates :password, length:{minimum: 6}
     
     #你好
+    
+    #master 修改
 	
 end
