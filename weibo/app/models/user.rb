@@ -15,4 +15,6 @@ class User < ApplicationRecord
 
 #first
 	123
+    
+    NEW
 end
