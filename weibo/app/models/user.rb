@@ -17,4 +17,6 @@ class User < ApplicationRecord
 	123
     
     NEW
+    
+    2222222
 end
