@@ -9,5 +9,7 @@ class User < ApplicationRecord
     #你好
     
 #    新的branch
+
+# NEW BRANCH SECOND
 	
 end
