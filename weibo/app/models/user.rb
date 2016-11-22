@@ -12,5 +12,7 @@ class User < ApplicationRecord
 #    新的branch
 
 # NEW BRANCH SECOND
+
+#first
 	
 end
