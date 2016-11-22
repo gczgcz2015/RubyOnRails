@@ -8,6 +8,7 @@ class User < ApplicationRecord
     
     #你好
     
+    #master 修改
 #    新的branch
 
 # NEW BRANCH SECOND
