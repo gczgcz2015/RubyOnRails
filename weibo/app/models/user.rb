@@ -16,11 +16,8 @@ class User < ApplicationRecord
 #first
 	123
     
-<<<<<<< HEAD
     NEW
     
     2222222
-=======
     master
->>>>>>> master
 end
